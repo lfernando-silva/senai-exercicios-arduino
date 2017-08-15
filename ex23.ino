@@ -1,5 +1,12 @@
-//Link para o circuito: 
-//https://www.tinkercad.com/things/jF5OeciTEIW-epic-jarv-bombul
+/*Link para o circuito: 
+https://www.tinkercad.com/things/jF5OeciTEIW-epic-jarv-bombul
+
+23) Projete um hardware e um software utilizando Arduino, que leia o pino 5. Quando
+este pino estiver com nível lógico 0, apresente o valor 0 no display de 7 segmentos o
+número Zero e quando o pino 5 estiver com nível lógico 1, apresente o valor 1 no
+display de sete segmentos.
+
+*/
 
 int g = 13;
 int f = 12;
