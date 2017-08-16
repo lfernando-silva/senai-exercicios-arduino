@@ -1,6 +1,6 @@
 /*
 Link para o circuito: 
-https://www.tinkercad.com/things/kFB3vXENkBm-epic-jarv-bombul-3
+https://www.tinkercad.com/things/lWgS6LW55x7-epic-jarv-bombul-3
 
 27) Projete um hardware e um software utilizando Arduino que apresente uma contagem
 em ordem crescente de 0 a 99 em dois displays de 7 segmentos, incrementando a
